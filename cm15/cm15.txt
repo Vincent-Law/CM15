@@ -1,0 +1,7 @@
+"Gamemode"
+{
+	"base"        "base"
+	"title"       "CM15"
+	"maps"        "^gm_|^gmod_|^phys_"
+	"menusystem"  "1"
+}
